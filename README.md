@@ -1,4 +1,4 @@
-# DS-ML-Projects
+# DS ML Projects
 
 ## Hi there, Sudhansu here...
 
